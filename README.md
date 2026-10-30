@@ -188,6 +188,8 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Music, Radio and Podcasts
 
+* [RapLyrics](https://raplyrics.online/) - Free no-sign-up rap-writing workspace with editable starter verses, rhyme-pattern controls, a rhyme finder, and TXT export. Starter drafts are rule-based writing starters rather than AI-generated songs.
+
 * [Podbay](http://podbay.fm/) - Listen to any podcast online, individual episodes can be downloaded.
 * [Internet Radio](https://www.internet-radio.com/) - Listen to over 40k radio stations.
 * [AnyAudio](http://anyaudio.in/) - Stream and download music.
